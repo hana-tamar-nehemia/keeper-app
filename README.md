@@ -1,6 +1,6 @@
 # keeper app
 
-- My keeper build by react 
+- My keeper built by react 
 - I used material-ui so it will be nice to use
 - MongoDB as database
 
